@@ -29,3 +29,15 @@ console.log(boolenis);
 // 1 => true ; 0=> false
 // "" => false
 // "Ranjay" => true
+
+
+
+
+// *****************operator*******************
+
+console.log("1" + 2);
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+2+"2")
+
+  
