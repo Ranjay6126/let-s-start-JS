@@ -71,6 +71,28 @@ Compare.js – Comparison operations
 
 controlFlow.js – Conditional statements
 
+Tech Used
+
+React
+
+JavaScript
+
+HTML
+
+CSS
+
+Future Improvements
+
+More React projects
+
+Advanced Hooks
+
+API Integration
+
+Routing
+
+State Management
+
 Purpose
 
 The goal of this repository is to practice and understand JavaScript concepts with simple and clear examples. It can be used as notes, revision material, or beginner-frien
